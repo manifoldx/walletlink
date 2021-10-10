@@ -1,0 +1,36 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/gorilla/mux v1.7.1
+## explicit
+github.com/gorilla/mux
+# github.com/gorilla/websocket v1.4.0
+## explicit
+github.com/gorilla/websocket
+# github.com/lib/pq v1.1.1
+## explicit
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/pkg/errors v0.8.1
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/objx v0.1.1
+## explicit
+github.com/stretchr/objx
+# github.com/stretchr/testify v1.3.0
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/mock
+github.com/stretchr/testify/require
+# github.com/walletlink/walletlink v0.0.0-20210914172853-4ebd71b9bd53
+## explicit
+github.com/walletlink/walletlink/config
+github.com/walletlink/walletlink/server
+github.com/walletlink/walletlink/server/rpc
+github.com/walletlink/walletlink/store
+github.com/walletlink/walletlink/store/models
+github.com/walletlink/walletlink/util
+github.com/walletlink/walletlink/webhook
